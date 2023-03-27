@@ -1,0 +1,13 @@
+/* Cor de fundo */
+body {background: #E5E5E5};
+
+/* Pagina principal */
+.navbar {
+    max-width: 1076px;
+    margin: 0 auto;
+    height: 70px;
+}
+
+.container-fluid {
+    margin-right: 200px;
+  }
